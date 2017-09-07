@@ -9,7 +9,7 @@ public class WordProcesser {
         CharacterFactory factory = new CharacterFactory();
 
         for(char a : line.toCharArray()){
-            Character character = new Character(a);
+            Character character =factory.getChracter(a);
             character.print();
         }
     }

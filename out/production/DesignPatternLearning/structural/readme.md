@@ -10,3 +10,11 @@ Nesneleri agac yapisina gore duzenleyerek alt-ust iliskinisi kurmak icin kullani
 
 
 ##Decorator
+Nesnenin haberi olmadan nesneye ek ozellik eklemek istedimiz durumlarda kullanabiliriz.Ornekte temelde bir telefonumuz
+var ve biz bu telefona kamera veya mms ozelligi ekleyebiliyoruz.
+
+##FlyWeight
+Nesne uretmek maliyetli bir istir.Daha once olusturulmus olan nesneyi yeniden olusturmak mantikli degil.Iste bu pattern
+da bize olusturulan nesnelerin bir havuzda toplanip daha sonra ayni isi yapacagimizda yeni bir nesne olusturmaktansa
+daha once zaten olusturulmus olan nesneyi donduruyor.
+

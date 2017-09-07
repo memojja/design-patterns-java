@@ -6,4 +6,7 @@ Mesela ornekte; bir adres sinifi var ve musterilerin adreslerinin de tutulmasi g
 Bu musteri sinifini adres sinifina uyduracak bir adapter yazilmasi lazim cunku bize musterinlerin adresi lazim.
 
 ##Composite
+Nesneleri agac yapisina gore duzenleyerek alt-ust iliskinisi kurmak icin kullanilir.
 
+
+##Decorator

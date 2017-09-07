@@ -7,3 +7,9 @@ Bu musteri sinifini adres sinifina uyduracak bir adapter yazilmasi lazim cunku b
 
 ##Composite
 Nesneleri agac yapisina gore duzenleyerek alt-ust iliskinisi kurmak icin kullanilir.
+
+
+##Decorator
+Nesnenin haberi olmadan nesneye ek ozellik eklemek istedimiz durumlarda kullanabiliriz.Ornekte temelde bir telefonumuz
+var ve biz bu telefona kamera veya mms ozelligi ekleyebiliyoruz.
+
